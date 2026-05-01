@@ -1,5 +1,9 @@
 # Testes no Ciclo de Vida de Desenvolvimento de Software (SDLC) 
 
+<div style="text-align: center;">
+  <img src="img/SDLC.png" width="50%" alt="SDLC">
+</div>
+
 ## Descrição do Projeto
 
 Este repositório documenta um fluxograma detalhado que representa os principais pontos de atuação do QA durante o Ciclo de Vida de Desenvolvimento de Software (SDLC). O objetivo do fluxo é guiar o processo de qualidade, desde o planejamento até a produção, visando garantir que os requisitos sejam atendidos, minimizar o surgimento de bugs e assegurar que a entrega final mantenha um alto padrão de qualidade.
@@ -65,9 +69,6 @@ O fluxograma do SDLC está dividido em várias etapas, cada uma com atividades e
 ## Visualização do Fluxograma
 
 - Para uma visualização detalhada do fluxograma animado, acesse o [fluxograma completo em HTML](https://quintilianonery.github.io/TestesNoSDLC/fluxograma_animado.html).
-
-<iframe src="fluxograma_animado.html" width="100%" height="700" frameborder="0"></iframe>
-
 ---
 
 - **Este fluxo foi desenhado para assegurar que o QA participe ativamente em todas as fases do ciclo de desenvolvimento, promovendo a qualidade desde o planejamento até o monitoramento em produção.**
